@@ -86,9 +86,7 @@
 		A5B7D01524E38DCD001D762B /* BackslashEscapeSettingViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A5B7D01324E38DCD001D762B /* BackslashEscapeSettingViewController.xib */; };
 		A5C95E3B25238F8700BED198 /* GeneralHelpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5C95E3A25238F8700BED198 /* GeneralHelpers.swift */; };
 		A5C95E3D2524302F00BED198 /* UUID.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5C95E3C2524302F00BED198 /* UUID.swift */; };
-		A5C95E452526D0F500BED198 /* DevUtilsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5C95E442526D0F500BED198 /* DevUtilsTests.swift */; };
 		A5C95E4F2526D4D300BED198 /* UUID.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5C95E3C2524302F00BED198 /* UUID.swift */; };
-		A5C95E512526D8F200BED198 /* UUIDTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5C95E502526D8F200BED198 /* UUIDTests.swift */; };
 		A5C95E542527303D00BED198 /* UUIDToolSettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5C95E522527303D00BED198 /* UUIDToolSettingViewController.swift */; };
 		A5C95E552527303D00BED198 /* UUIDToolSettingViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A5C95E532527303D00BED198 /* UUIDToolSettingViewController.xib */; };
 		A5C95E56252732E900BED198 /* UUIDToolSettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5C95E522527303D00BED198 /* UUIDToolSettingViewController.swift */; };
@@ -147,7 +145,6 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		A504B9A22472662C000A91D7 /* TODO.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = TODO.md; sourceTree = "<group>"; };
 		A504B9A424729DB9000A91D7 /* OutputTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OutputTextField.swift; sourceTree = "<group>"; };
 		A504B9A624729DDE000A91D7 /* OutputTextField.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = OutputTextField.xib; sourceTree = "<group>"; };
 		A509FEC62472D0B8005ABCC2 /* CustomView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomView.swift; sourceTree = "<group>"; };
@@ -180,7 +177,6 @@
 		A52E1EA024820D340027F8AF /* JSONFormatterSettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JSONFormatterSettingViewController.swift; sourceTree = "<group>"; };
 		A52E1EA124820D340027F8AF /* JSONFormatterSettingViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = JSONFormatterSettingViewController.xib; sourceTree = "<group>"; };
 		A54CB79A246EED39006A468E /* WindowController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WindowController.swift; sourceTree = "<group>"; };
-		A54CB79E246F9DA4006A468E /* TIL.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = TIL.md; sourceTree = "<group>"; };
 		A54CB79F246FDDA2006A468E /* OutlineViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OutlineViewController.swift; sourceTree = "<group>"; };
 		A54CB7A3246FE06D006A468E /* Tool.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tool.swift; sourceTree = "<group>"; };
 		A54CB7A5246FF0CB006A468E /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
@@ -198,7 +194,6 @@
 		A56A9CCA2523795A00ECF032 /* UUIDToolViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = UUIDToolViewController.xib; sourceTree = "<group>"; };
 		A56A9CCE25237FE500ECF032 /* IntergerFormatter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntergerFormatter.swift; sourceTree = "<group>"; };
 		A572CD7C2470EBC300394087 /* Date.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Date.swift; sourceTree = "<group>"; };
-		A57E11EF2478DDDE00ACF76D /* NOTES.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = NOTES.md; sourceTree = "<group>"; };
 		A57E11F42478FE3500ACF76D /* String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = String.swift; sourceTree = "<group>"; };
 		A57E11F62479258900ACF76D /* JSONFormatterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JSONFormatterViewController.swift; sourceTree = "<group>"; };
 		A57E11F72479258900ACF76D /* JSONFormatterViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = JSONFormatterViewController.xib; sourceTree = "<group>"; };
@@ -229,9 +224,6 @@
 		A5C95E3A25238F8700BED198 /* GeneralHelpers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeneralHelpers.swift; sourceTree = "<group>"; };
 		A5C95E3C2524302F00BED198 /* UUID.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UUID.swift; sourceTree = "<group>"; };
 		A5C95E422526D0F500BED198 /* DevUtilsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DevUtilsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		A5C95E442526D0F500BED198 /* DevUtilsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DevUtilsTests.swift; sourceTree = "<group>"; };
-		A5C95E462526D0F500BED198 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A5C95E502526D8F200BED198 /* UUIDTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UUIDTests.swift; sourceTree = "<group>"; };
 		A5C95E522527303D00BED198 /* UUIDToolSettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UUIDToolSettingViewController.swift; sourceTree = "<group>"; };
 		A5C95E532527303D00BED198 /* UUIDToolSettingViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = UUIDToolSettingViewController.xib; sourceTree = "<group>"; };
 		A5CCEAF924B5853F00C38FB1 /* ToolOutlineTableCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToolOutlineTableCellView.swift; sourceTree = "<group>"; };
@@ -368,7 +360,6 @@
 			children = (
 				A56A9CC82523790A00ECF032 /* UUIDTool */,
 				A5CD9C982520228C001D340D /* Welcome */,
-				A5CD9C972510C260001D340D /* HTMLPreview */,
 				A5B7D00F24E388EF001D762B /* BlackslashEscape */,
 				A5861F012494703A00EDC5AB /* Shared */,
 				A5861F0D2494929500EDC5AB /* HTMLEntity */,
@@ -475,13 +466,9 @@
 			isa = PBXGroup;
 			children = (
 				A5CD9C9A25203730001D340D /* README.md */,
-				A54CB79E246F9DA4006A468E /* TIL.md */,
-				A504B9A22472662C000A91D7 /* TODO.md */,
-				A57E11EF2478DDDE00ACF76D /* NOTES.md */,
 				A599BFDE2529570E00CA37E6 /* LICENSE.md */,
 				A59FBE6024362BCE00C5C9BF /* TINOBHNYWE */,
 				A513042F247585B70023D0CF /* LauncherApplicationTINO */,
-				A5C95E432526D0F500BED198 /* DevUtilsTests */,
 				A59FBE5F24362BCE00C5C9BF /* Products */,
 				A513040F2474227E0023D0CF /* Frameworks */,
 			);
@@ -523,23 +510,6 @@
 				A5B7D01324E38DCD001D762B /* BackslashEscapeSettingViewController.xib */,
 			);
 			path = BlackslashEscape;
-			sourceTree = "<group>";
-		};
-		A5C95E432526D0F500BED198 /* DevUtilsTests */ = {
-			isa = PBXGroup;
-			children = (
-				A5C95E442526D0F500BED198 /* DevUtilsTests.swift */,
-				A5C95E462526D0F500BED198 /* Info.plist */,
-				A5C95E502526D8F200BED198 /* UUIDTests.swift */,
-			);
-			path = DevUtilsTests;
-			sourceTree = "<group>";
-		};
-		A5CD9C972510C260001D340D /* HTMLPreview */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = HTMLPreview;
 			sourceTree = "<group>";
 		};
 		A5CD9C982520228C001D340D /* Welcome */ = {
@@ -814,8 +784,6 @@
 			files = (
 				A5C95E542527303D00BED198 /* UUIDToolSettingViewController.swift in Sources */,
 				A5C95E4F2526D4D300BED198 /* UUID.swift in Sources */,
-				A5C95E512526D8F200BED198 /* UUIDTests.swift in Sources */,
-				A5C95E452526D0F500BED198 /* DevUtilsTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
